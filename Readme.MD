@@ -1,11 +1,10 @@
-//01. Declarando Interfaces
 # Testing Inversify
 
 
-A [https://inversify.io/](https://inversify.io/)
+[https://inversify.io/](https://inversify.io/)
 
 
-![Logo]('./inversify.png')
+![Logo](inversify.png)
 
 
 A powerful and lightweight inversion of control container<br/>
